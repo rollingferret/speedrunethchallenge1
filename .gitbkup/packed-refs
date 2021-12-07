@@ -1,0 +1,16 @@
+# pack-refs with: peeled fully-peeled sorted 
+098498849847331a22ff9f13dee6be73851a990d refs/remotes/origin/ZG-Cha0-Simple-NFT
+f6a3628f2fede38b7576faf09f94fab0e670ff23 refs/remotes/origin/challenge-0-add-minting
+fd613f2ab436b8f8725a9eae5ffd942d55f56105 refs/remotes/origin/challenge-0-simple-nft
+c60ae8f6d4e5aabf350e54dad9cd9f6b774d2fce refs/remotes/origin/challenge-1-decentralized-staking
+cb404a097732ea17dd98355e07639ccd33476b2f refs/remotes/origin/challenge-2-token-vendor
+9b163c833c62914116e303233e93682307e77ee8 refs/remotes/origin/challenge-3-multi-sig
+ab5f0e73520e3bf445b232a56d90903005c5593f refs/remotes/origin/challenge-4-oracle
+402afdaecaf5895b921b98ca0de41ddcf2e841ec refs/remotes/origin/challenge-5-dex
+cf3c4f4694f4f950a9dc2f35b75ba5dcd52daf85 refs/remotes/origin/challenge-6-nft-marketplace
+baa1ea3ea8f6adf4cd6821320bdd0bc9ee8452c9 refs/remotes/origin/challenge-7-create-stream
+d485536e1cb46b12dfd218b0990041e3842e0dce refs/remotes/origin/challenge-8-indexer-and-node
+884405c6c5e381abe19d2a2591e87d63a9800a7f refs/remotes/origin/checkpoints-develop
+e96ac36ca8e5343f1a3513311a097f1029dae4f3 refs/remotes/origin/master
+eadd5501b2ac44b6e0e5e9cc93937320fefbbd0e refs/remotes/origin/nft-metadata-script
+03948b843511709f0946bff203fdabe080cfff6c refs/tags/testy
